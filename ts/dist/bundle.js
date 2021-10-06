@@ -1,0 +1,1 @@
+(()=>{"use strict";var s;!function(s){s.Users=class{static getData(){console.log("Get data from Users")}}}(s||(s={})),s.Users.getData(),console.log("HelloTS")})();

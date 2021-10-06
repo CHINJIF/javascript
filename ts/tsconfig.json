@@ -1,0 +1,14 @@
+{
+        /*
+                tsconfig.json是ts编译器的配置文件 
+        */
+        "include": [
+                "./src/**/*",
+                "./modules/**/*"
+        ],
+        "compilerOptions": {
+                "target": "es6",
+                "module": "es6",
+                "esModuleInterop": true
+        }
+}
